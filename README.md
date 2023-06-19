@@ -16,6 +16,8 @@ Discord webhook example:
 As you can see, we have the server version, the player count, its location (that's from it's ip), the latency, the favicon, and the description. We send all of this 
 information to a discord webhook so that they can be easily picked through for interesting servers.
 
+## servers
+You can find the information of every server I've indexed by looking in the "files.txt" file.
 
 ## stats
 After running this program for like a month on a linux machine lying around, I managed to index **7686** minecraft servers. I ran into 1 youtuber's private server,

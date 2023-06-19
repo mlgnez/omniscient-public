@@ -35,4 +35,4 @@ back in the future and add more features to this, but if you really care, go ahe
 
 ## how do i install this?
 Simply install PyCharm Community Edition and load the program, install python 3.9 in the settings menu, and install any package that is required. I'm far too lazy 
-to make a requirements.txt file, so good luck.
+to make a requirements.txt file, so have fun. Also, you need to create a CosmosDB in Azure. Then, get all of the values and put them in cosmos.py. Good Luck!
